@@ -12,9 +12,9 @@ use binance api to get price
 
 ## ScreenShot
 
-##自由拖動 free to move
-![image](https://github.com/MuMuShy/FloatingCryptoCurrencyMonitor/tree/main/screenshot/01.gif)
+自由拖動 free to move
+![image](https://github.com/MuMuShy/FloatingCryptoCurrencyMonitor/blob/main/screenshot/01.gif)
 
-##選擇想要的貨幣 custom your follow currency
-![image](https://github.com/MuMuShy/FloatingCryptoCurrencyMonitor/tree/main/screenshot/02.gif)
+選擇想要的貨幣 custom your follow currency
+![image](https://github.com/MuMuShy/FloatingCryptoCurrencyMonitor/blob/main/screenshot/02.gif)
 

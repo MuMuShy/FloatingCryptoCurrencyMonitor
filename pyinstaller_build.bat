@@ -1,0 +1,1 @@
+pyinstaller -F -w -p E:\SideProject\FloatingCrypto\CryptoDeskTool\venv\Lib\site-packages -i monitor.ico main.py
